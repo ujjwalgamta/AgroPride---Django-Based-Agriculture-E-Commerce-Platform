@@ -2,10 +2,7 @@
 ### Smart Agriculture Products & Information Platform
 
 <p align="center">
-  <img src="https://img.shields.io/go-Web_Framework-green?style=for-the-badge
-  <imgs://img.shields.io/badge/Python-Backend-blue?style=for-the-badge
-  https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge
-  <img src="https://img.shieldsStatus-Completed-success?style=for-the-badge
+ Project File: https://drive.google.com/file/d/1R3P7mQO0Dn25iq1g1FDu8HzMfjXkqFUh/view
 </p>
 
 ---
